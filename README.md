@@ -179,7 +179,7 @@ line or the closing brace `}` of the loop.
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`.
 
-- [X ] Rerun the program to verify.
+- [X] Rerun the program to verify.
 
 That's your first big IntelliJ trick! There are lots more.
 
@@ -187,7 +187,6 @@ Note: Recall that in Python we were in the habit of defining helpers with a lead
 private — only to be called by the method using it as a helper and not by anyone outside the class. IntelliJ has done
 something similar here — when it extracted this method, it used the `private` access modifier for the extracted method.
 You'll learn more about the various access modifiers in your Java readings soon.
-
 ### Task 2.1: Publishing your changes
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
